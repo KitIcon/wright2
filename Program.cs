@@ -18,6 +18,5 @@ namespace wright2
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
         }
-        //test12313213132
     }
 }
