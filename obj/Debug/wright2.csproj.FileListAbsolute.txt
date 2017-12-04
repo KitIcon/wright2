@@ -1,0 +1,19 @@
+c:\users\chaki\onedrive\เอกสาร\visual studio 2015\Projects\wright2\wright2\bin\Debug\wright2.exe.config
+c:\users\chaki\onedrive\เอกสาร\visual studio 2015\Projects\wright2\wright2\bin\Debug\wright2.exe
+c:\users\chaki\onedrive\เอกสาร\visual studio 2015\Projects\wright2\wright2\bin\Debug\wright2.pdb
+c:\users\chaki\onedrive\เอกสาร\visual studio 2015\Projects\wright2\wright2\obj\Debug\wright2.csprojResolveAssemblyReference.cache
+c:\users\chaki\onedrive\เอกสาร\visual studio 2015\Projects\wright2\wright2\obj\Debug\wright2.Form1.resources
+c:\users\chaki\onedrive\เอกสาร\visual studio 2015\Projects\wright2\wright2\obj\Debug\wright2.Properties.Resources.resources
+c:\users\chaki\onedrive\เอกสาร\visual studio 2015\Projects\wright2\wright2\obj\Debug\wright2.csproj.GenerateResource.Cache
+c:\users\chaki\onedrive\เอกสาร\visual studio 2015\Projects\wright2\wright2\obj\Debug\wright2.exe
+c:\users\chaki\onedrive\เอกสาร\visual studio 2015\Projects\wright2\wright2\obj\Debug\wright2.pdb
+C:\Users\Chakrit\Downloads\Compressed\wright2\wright2\bin\Debug\wright2.exe.config
+C:\Users\Chakrit\Downloads\Compressed\wright2\wright2\bin\Debug\wright2.exe
+C:\Users\Chakrit\Downloads\Compressed\wright2\wright2\bin\Debug\wright2.pdb
+C:\Users\Chakrit\Downloads\Compressed\wright2\wright2\obj\Debug\wright2.csprojResolveAssemblyReference.cache
+C:\Users\Chakrit\Downloads\Compressed\wright2\wright2\obj\Debug\wright2.Form1.resources
+C:\Users\Chakrit\Downloads\Compressed\wright2\wright2\obj\Debug\wright2.Properties.Resources.resources
+C:\Users\Chakrit\Downloads\Compressed\wright2\wright2\obj\Debug\wright2.csproj.GenerateResource.Cache
+C:\Users\Chakrit\Downloads\Compressed\wright2\wright2\obj\Debug\wright2.csproj.CoreCompileInputs.cache
+C:\Users\Chakrit\Downloads\Compressed\wright2\wright2\obj\Debug\wright2.exe
+C:\Users\Chakrit\Downloads\Compressed\wright2\wright2\obj\Debug\wright2.pdb
